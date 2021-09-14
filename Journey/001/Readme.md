@@ -1,4 +1,4 @@
-# Day 1
+# Jumped Into YouTube AWS Lab
 
 ## Cloud Research
 
@@ -16,5 +16,5 @@ I wanted to try all these out but I feel I need a bit more guidance on my learni
 
 [First Twitter Cloud Post](https://twitter.com/JBizzle703/status/1437447392983388161)
 
-## Screen Shots
+## Look What I Did!
 <img width="1684" alt="Screen Shot 2021-09-14 at 5 26 05 PM" src="https://user-images.githubusercontent.com/90277861/133337043-4a6ed9a7-46a5-498b-b394-b6a32b96e7af.png">
