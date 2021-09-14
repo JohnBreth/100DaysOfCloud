@@ -19,6 +19,7 @@ By the time I'm done with this I would like to have a better grasp on the techni
 
 ## Some Links That Interest Me
 https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty
+
 https://youtu.be/cSky-gP0Upw
 https://www.exampro.co/aws-exam-cloud-practitoner-foundational
 https://www.reddit.com/r/AWSCertifications/comments/p0u9v3/free_mini_projectsadvanced_demoslabs_for_aws/
