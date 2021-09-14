@@ -4,11 +4,11 @@
 
 Some AWS firsts today when following along with this [AWS Lab video](https://youtu.be/uo_Xf_pGTvg)
 
-Created AWS account w/MFA
-Setup CloudWatch alert for billing (Face with tears of joy)
-Created VPC/Internet Gateway/Subnets
-Created Security Group
-Spun up a Windows/Linux EC2 instance w/keys
+-Created AWS account w/MFA
+-Setup CloudWatch alert for billing (Face with tears of joy)
+-Created VPC/Internet Gateway/Subnets
+-Created Security Group
+-Spun up a Windows/Linux EC2 instance w/keys
 
 I wanted to try all these out but I feel I need a bit more guidance on my learning path to make sure I get a good foundation of infomration. So tomorrow I'm going to pick a training class with labs...
 
