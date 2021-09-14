@@ -1,52 +1,14 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# AWS CCP Class
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- Created this #100DaysofCloud repository to track progress
+- Signed up for the AWS CCP training program at [ExamPro](https://app.exampro.co/) taught by [Andrew Brown](https://twitter.com/andrewbrown)
+- Went through the first introductory lesson. Aim to schedule the AWS cert for next week.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1437895708519059463?)
 
-[link](link)
+## Look What I Did!
+<img width="1387" alt="Screen Shot 2021-09-14 at 5 24 36 PM" src="https://user-images.githubusercontent.com/90277861/133337943-ef809b88-26f6-4265-8575-76f21e1a1122.png">
