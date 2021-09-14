@@ -14,16 +14,12 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## JB's Cloud Journey
 
-[✍️ Introduce yourself]
+I know nothing of the cloud, I feel safe on-prem. The cloud is a scary and nebulous place full of open S3 buckets and unprotected API's. I want to learn how to design cloud environments.
 
-[✍️ Tell us why you started this challenge]
+By the time I'm done with this I would like to have a better grasp on the technical skills needed to design, configure and manage cloud environments. As well as have a better understanding of the attack surface and ways to protect it
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
 
 ## Stepping out the door
 
