@@ -18,11 +18,10 @@ I know nothing of the cloud, I feel safe on-prem. The cloud is a scary and nebul
 By the time I'm done with this I would like to have a better grasp on the technical skills needed to design, configure and manage cloud environments. As well as have a better understanding of the attack surface and ways to protect it
 
 ## Some Links That Interest Me
-https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty
-
-https://youtu.be/cSky-gP0Upw
-https://www.exampro.co/aws-exam-cloud-practitoner-foundational
-https://www.reddit.com/r/AWSCertifications/comments/p0u9v3/free_mini_projectsadvanced_demoslabs_for_aws/
+- https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty
+- https://youtu.be/cSky-gP0Upw
+- https://www.exampro.co/aws-exam-cloud-practitoner-foundational
+- https://www.reddit.com/r/AWSCertifications/comments/p0u9v3/free_mini_projectsadvanced_demoslabs_for_aws/
 
 ## Stepping out the door
 
