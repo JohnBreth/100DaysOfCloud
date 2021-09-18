@@ -15,7 +15,7 @@ Continued ExamPro CCP class and covered the following topics and labs today:
 
 ## Social Proof
 
-[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1438238277304209409)
+[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1439044219516108802)
 
 ## Look What I Did!
 <img width="1693" alt="Screen Shot 2021-09-17 at 7 40 51 PM" src="https://user-images.githubusercontent.com/90277861/133868225-d5a6962c-d866-48ea-9efa-b58e4ce88106.png">
