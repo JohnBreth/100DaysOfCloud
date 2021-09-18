@@ -1,4 +1,4 @@
-# AWS CCP Class Day 3 (Labs)
+# AWS CCP Class Day 4 (Labs)
 
 ## Cloud Research
 
