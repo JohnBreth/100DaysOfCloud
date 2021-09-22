@@ -10,7 +10,7 @@ Continued ExamPro CCP class and covered the following topics and labs today:
 - Free services, Landing Zone, Quick Starts, Marketplace, Support Cases, Resource Groups and Tagging
 ## Social Proof
 
-[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1440046720281235456)
+[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1440801495973195776)
 
 
 ![screenshotAtUploadCC_1632348308072](https://user-images.githubusercontent.com/90277861/134428570-f26e4c51-01dd-4bce-9a53-ec4c0c1453fa.jpeg)
