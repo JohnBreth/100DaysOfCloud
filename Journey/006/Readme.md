@@ -1,52 +1,19 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# AWS CCP Class Day 5
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
+Continued ExamPro CCP class and covered the following topics and labs today:
+- AWS Technology overview
+  - Covered different edge/hybrid services, cost/capacity management, big data services, AI/ML/DL services, NoSQL/SQL database services, Microsoft services, 
+- Billing and Pricing Overview
+  - Budgets, Cost and Usage reports, consolidated billing, Cost Explorer, TCO Calculator, 
+- Free services, Landing Zone, Quick Starts, Marketplace, Support Cases, Resource Groups and Tagging
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1440046720281235456)
 
-[link](link)
+
+![screenshotAtUploadCC_1632348308072](https://user-images.githubusercontent.com/90277861/134428570-f26e4c51-01dd-4bce-9a53-ec4c0c1453fa.jpeg)
+![screenshotAtUploadCC_1632348355377](https://user-images.githubusercontent.com/90277861/134428582-1d5f3aa7-2bd2-4042-b2d4-dd9d77fae523.jpeg)
+![screenshotAtUploadCC_1632348355378](https://user-images.githubusercontent.com/90277861/134428595-aacaa881-17a9-4dd3-8c43-2fb20b99cabf.jpeg)
+![screenshotAtUploadCC_1632348416629](https://user-images.githubusercontent.com/90277861/134428600-c93a12f7-2244-4ecf-ab1e-ba9465a4db71.jpeg)
