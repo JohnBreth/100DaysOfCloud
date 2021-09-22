@@ -5,7 +5,7 @@
 Continued ExamPro CCP class and covered the following topics and labs today:
 - AWS Technology overview
   - Covered different edge/hybrid services, cost/capacity management, big data services, AI/ML/DL services, NoSQL/SQL database services, Microsoft services, 
-- Billing and Pricing Overview
+- Billing and Pricing overview
   - Budgets, Cost and Usage reports, consolidated billing, Cost Explorer, TCO Calculator, 
 - Free services, Landing Zone, Quick Starts, Marketplace, Support Cases, Resource Groups and Tagging
 ## Social Proof
