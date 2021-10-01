@@ -26,7 +26,7 @@ By the time I'm done with this I would like to have a better grasp on the techni
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [x] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [AWS CCP Class](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [AWS CCP Class Day 2](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [AWS CCP Class Day 3/Labs](Journey/004/Readme.md)
