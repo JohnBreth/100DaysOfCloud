@@ -1,52 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# AWS CCP Class Day 6
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Continued ExamPro CCP class and covered the following topics today:
+- AWS Security Services Overview
+  - Covered shared responsibility model, compliance programs, WAF, security advisements, baseline scanning, S3 security scanning, and IDS/IPS
+- Covered differences between similar tools/services or services with similar names
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[#100DaysofCloud Twitter Post] N/A
 
-[link](link)
+<img width="612" alt="Screen Shot 2021-09-30 at 8 02 22 PM" src="https://user-images.githubusercontent.com/90277861/135546427-b8acf9da-bd41-40bc-af03-ccadeda28569.png">
+<img width="610" alt="Screen Shot 2021-09-30 at 8 02 28 PM" src="https://user-images.githubusercontent.com/90277861/135546430-5b54c9bb-29ef-4d8a-9309-084378a08bf4.png">
