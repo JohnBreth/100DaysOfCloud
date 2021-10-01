@@ -33,7 +33,7 @@ By the time I'm done with this I would like to have a better grasp on the techni
 - [x] ☁️ 5 > [AWS CCP Class Day 4/Labs](Journey/005/Readme.md)
 - [x] ☁️ 6 > [AWS CCP Class Day 5](Journey/006/Readme.md)
 - [x] ☁️ 7 > [AWS CCP Class Day 6](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [x] ☁️ 8 > [AWS CCP Class Test Practice Exams](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
