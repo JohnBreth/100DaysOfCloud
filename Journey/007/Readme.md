@@ -7,6 +7,8 @@ Continued ExamPro CCP class and covered the following topics today:
   - Covered shared responsibility model, compliance programs, WAF, security advisements, baseline scanning, S3 security scanning, and IDS/IPS
 - Covered differences between similar tools/services or services with similar names
 
+Final day of lectures, now will study/review
+
 ## Social Proof
 
 [#100DaysofCloud Twitter Post] N/A
