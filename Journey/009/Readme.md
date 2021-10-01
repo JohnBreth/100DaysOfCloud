@@ -1,6 +1,6 @@
 # AWS CCP Exam Day
 
-Took the test on 9/29 through Pearsonview and passed. I'll be doing a full breakdown on my youtube channel next week (Will link back here when done). Havent received official score breakdown yet!
+Took the test on 9/29 through Pearson Vue and passed. I'll be doing a full breakdown on my youtube channel next week (Will link back here when done). Havent received official score breakdown yet!
 
 
 ## Social Proof
