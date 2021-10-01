@@ -1,52 +1,13 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# AWS CCP Class Test Practice Exams
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Took multiple practice tests on the ExamPro website for the CCP. I did this over the course of 5 days in preparation for the CCP exam. I scored 80+% on all exams the first time through. I like the way these exams are laid out, as they only have you go back through the quesitons you failed when you retake the exam. 
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+I also did a live stream on my YouTube channel of the newest practice exam withthe program which was updated to reflect a change in some of the topics covered on the updated CCP exam.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1442485995262431234?s=20)
 
-[link](link)
+<img width="613" alt="Screen Shot 2021-09-30 at 8 11 49 PM" src="https://user-images.githubusercontent.com/90277861/135547060-b0a2f669-dfe2-4eab-b405-4db80831ed2f.png">
