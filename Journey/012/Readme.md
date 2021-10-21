@@ -1,52 +1,14 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# AWS SysOps Admin Associate Class Day 3
 
-# New post title here
+Completed OpsWorks section covering OpsWorks stacks, layers, and instaces. Also reviewed Puppet and Chef and other stack options. Started to do the lab involved with this, but my account doesn't seem to have the right permissions even though it appears to added in IAM. Will need to troubleshoot more tomorrow.
 
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1451325755615551494?s=20)
 
-[link](link)
+
+
+<img width="610" alt="Screen Shot 2021-10-21 at 7 03 41 PM" src="https://user-images.githubusercontent.com/90277861/138368573-0def546c-df39-4990-aab9-431c4ffff539.png">
+<img width="1017" alt="Screen Shot 2021-10-21 at 7 06 28 PM" src="https://user-images.githubusercontent.com/90277861/138368915-a8449580-b7b8-454c-970e-92069f4235e6.png">
+<img width="1019" alt="Screen Shot 2021-10-21 at 7 08 40 PM" src="https://user-images.githubusercontent.com/90277861/138368921-436d585c-b749-4098-8f4f-4984eaa4800a.png">
