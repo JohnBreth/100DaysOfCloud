@@ -7,7 +7,7 @@ Fun fact, AWS doesn't allow you to create VPC's or subnets smaller than a /28!
 
 ## Social Proof
 
-[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1451325755615551494?s=20)
+[#100DaysofCloud Twitter Post](https://twitter.com/JBizzle703/status/1453128807116902404?s=20)
 
 
 <img width="620" alt="Screen Shot 2021-10-26 at 6 30 47 PM" src="https://user-images.githubusercontent.com/90277861/138970491-55857d5f-a08b-4dff-be2b-387406882712.png">
