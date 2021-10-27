@@ -42,7 +42,7 @@ By the time I'm done with this I would like to have a better grasp on the techni
 - [ ] ☁️ 11 > [AWS SysOps Admin Associate Class Day 2/Labs](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [AWS SysOps Admin Associate Class Day 3 (OpsWorks)](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [AWS SysOps Admin Associate Class Day 4 (Cloud Networking/Labs)](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [ ] ☁️ 14 > [AWS SysOps Admin Associate Class Day 5 (VPC's)](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
