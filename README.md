@@ -46,7 +46,7 @@ By the time I'm done with this I would like to have a better grasp on the techni
 - [x] ☁️ 15 > [AWS SysOps Admin Associate Class Day 6 (Route 53)](Journey/015/Readme.md)
 - [x] ☁️ 16 > [Just CCSP Studying](Journey/016/Readme.md)
 - [x] ☁️ 17 > [Just CCSP Studying](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
+- [x] ☁️ 18 > [AWS SysOps Admin Associate Class Day 7 (EC2)](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
