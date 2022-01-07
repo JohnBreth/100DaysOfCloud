@@ -6,7 +6,7 @@ For the AWS SysOps studying did a lesson on EC2 instances and the various types,
 
 ## Social Proof
 
-[#100DaysofCloud Twitter Post] ()
+[#100DaysofCloud Twitter Post] (https://twitter.com/JBizzle703/status/1479249419145027586)
 
 
 <img width="607" alt="Screen Shot 2022-01-06 at 7 23 53 PM" src="https://user-images.githubusercontent.com/90277861/148471161-adf60c52-df75-46b5-8859-a870e8a67c60.png">
