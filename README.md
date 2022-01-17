@@ -48,7 +48,7 @@ By the time I'm done with this I would like to have a better grasp on the techni
 - [x] ☁️ 17 > [Just CCSP Studying](Journey/017/Readme.md)
 - [x] ☁️ 18 > [AWS SysOps Admin Associate Class Day 7 (EC2)](Journey/018/Readme.md)
 - [x] ☁️ 19 > [AWS SysOps Admin Associate Class Day 8 (SSM)](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [X] ☁️ 20 > [Just Some CCSP Studying](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
