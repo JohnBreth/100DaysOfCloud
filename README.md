@@ -52,7 +52,7 @@ By the time I'm done with this I would like to have a better grasp on the techni
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
+- [x] ☁️ 21 > [Just Some CCSP Studying](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
